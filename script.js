@@ -31,7 +31,7 @@ window.addEventListener('DOMContentLoaded', function(){
         }
     });
 
-// timer
+// +++++++++++++++++++++++++++++TIMER++++++++++++++++++++++++
 
 let deadline = '2019-11-19';
 function getTimeRemaining(endtime) {
